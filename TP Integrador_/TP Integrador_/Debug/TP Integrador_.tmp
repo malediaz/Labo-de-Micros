@@ -1,0 +1,39 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\malec\Documents\Facultad\Cursando\Labo de Micros\Scripts\TPs\TP Integrador_\TP Integrador_\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\malec\Documents\Facultad\Cursando\Labo de Micros\Scripts\TPs\TP Integrador_\TP Integrador_\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m328pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:\Users\malec\Documents\Facultad\Cursando\Labo de Micros\Scripts\TPs\TP Integrador_\TP Integrador_\PWM.inc</FILE>
+  <FILE>C:\Users\malec\Documents\Facultad\Cursando\Labo de Micros\Scripts\TPs\TP Integrador_\TP Integrador_\SerialPort.inc</FILE>
+  <FILE>C:\Users\malec\Documents\Facultad\Cursando\Labo de Micros\Scripts\TPs\TP Integrador_\TP Integrador_\ADC.inc</FILE>
+  <FILE>C:\Users\malec\Documents\Facultad\Cursando\Labo de Micros\Scripts\TPs\TP Integrador_\TP Integrador_\Auxiliar.inc</FILE>
+  <FILE>C:\Users\malec\Documents\Facultad\Cursando\Labo de Micros\Scripts\TPs\TP Integrador_\TP Integrador_\Int0.inc</FILE>
+  <FILE>C:\Users\malec\Documents\Facultad\Cursando\Labo de Micros\Scripts\TPs\TP Integrador_\TP Integrador_\Capture.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\malec\Documents\Facultad\Cursando\Labo de Micros\Scripts\TPs\TP Integrador_\TP Integrador_\Debug\TP Integrador_.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>TP Integrador_.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>TP Integrador_.map</FILE>
+  <FILE>TP Integrador_.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>C:\Users\malec\Documents\Facultad\Cursando\Labo de Micros\Scripts\TPs\TP Integrador_\TP Integrador_\main.asm</FILE><LINE>32</LINE></RESET>
+  <EXT_INT0><FILE>C:\Users\malec\Documents\Facultad\Cursando\Labo de Micros\Scripts\TPs\TP Integrador_\TP Integrador_\main.asm</FILE><LINE>71</LINE></EXT_INT0>
+  <INT_UDRE><FILE>C:\Users\malec\Documents\Facultad\Cursando\Labo de Micros\Scripts\TPs\TP Integrador_\TP Integrador_\main.asm</FILE><LINE>84</LINE></INT_UDRE>
+  <MAIN><FILE>C:\Users\malec\Documents\Facultad\Cursando\Labo de Micros\Scripts\TPs\TP Integrador_\TP Integrador_\main.asm</FILE><LINE>63</LINE></MAIN>
+  <START><FILE>C:\Users\malec\Documents\Facultad\Cursando\Labo de Micros\Scripts\TPs\TP Integrador_\TP Integrador_\main.asm</FILE><LINE>91</LINE></START>
+  <INT_UDRE_END><FILE>C:\Users\malec\Documents\Facultad\Cursando\Labo de Micros\Scripts\TPs\TP Integrador_\TP Integrador_\main.asm</FILE><LINE>93</LINE></INT_UDRE_END>
+ </LABELS>
+</ASSEMBLER_INFO>

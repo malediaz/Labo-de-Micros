@@ -1,0 +1,34 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\malec\Documents\Facultad\Cursando\Labo de Micros\Scripts\TPs\TP1\TP1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\malec\Documents\Facultad\Cursando\Labo de Micros\Scripts\TPs\TP1\TP1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\malec\Documents\Facultad\Cursando\Labo de Micros\Scripts\TPs\TP1\TP1\Debug\TP1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>TP1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>TP1.map</FILE>
+  <FILE>TP1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <START><FILE>C:\Users\malec\Documents\Facultad\Cursando\Labo de Micros\Scripts\TPs\TP1\TP1\main.asm</FILE><LINE>55</LINE></START>
+  <LOOP><FILE>C:\Users\malec\Documents\Facultad\Cursando\Labo de Micros\Scripts\TPs\TP1\TP1\main.asm</FILE><LINE>60</LINE></LOOP>
+  <OFF><FILE>C:\Users\malec\Documents\Facultad\Cursando\Labo de Micros\Scripts\TPs\TP1\TP1\main.asm</FILE><LINE>75</LINE></OFF>
+  <DELAY><FILE>C:\Users\malec\Documents\Facultad\Cursando\Labo de Micros\Scripts\TPs\TP1\TP1\main.asm</FILE><LINE>84</LINE></DELAY>
+  <READ><FILE>C:\Users\malec\Documents\Facultad\Cursando\Labo de Micros\Scripts\TPs\TP1\TP1\main.asm</FILE><LINE>77</LINE></READ>
+  <LOOP0><FILE>C:\Users\malec\Documents\Facultad\Cursando\Labo de Micros\Scripts\TPs\TP1\TP1\main.asm</FILE><LINE>86</LINE></LOOP0>
+  <LOOP1><FILE>C:\Users\malec\Documents\Facultad\Cursando\Labo de Micros\Scripts\TPs\TP1\TP1\main.asm</FILE><LINE>88</LINE></LOOP1>
+  <LOOP2><FILE>C:\Users\malec\Documents\Facultad\Cursando\Labo de Micros\Scripts\TPs\TP1\TP1\main.asm</FILE><LINE>90</LINE></LOOP2>
+ </LABELS>
+</ASSEMBLER_INFO>

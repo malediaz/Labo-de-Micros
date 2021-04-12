@@ -1,0 +1,40 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\malec\Documents\Facultad\Cursando\Labo de Micros\Scripts\TPs\TP2\TP2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\malec\Documents\Facultad\Cursando\Labo de Micros\Scripts\TPs\TP2\TP2\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m328pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\malec\Documents\Facultad\Cursando\Labo de Micros\Scripts\TPs\TP2\TP2\Debug\TP2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>TP2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>TP2.map</FILE>
+  <FILE>TP2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>C:\Users\malec\Documents\Facultad\Cursando\Labo de Micros\Scripts\TPs\TP2\TP2\main.asm</FILE><LINE>25</LINE></RESET>
+  <SWITCH1><FILE>C:\Users\malec\Documents\Facultad\Cursando\Labo de Micros\Scripts\TPs\TP2\TP2\main.asm</FILE><LINE>90</LINE></SWITCH1>
+  <SWITCH2><FILE>C:\Users\malec\Documents\Facultad\Cursando\Labo de Micros\Scripts\TPs\TP2\TP2\main.asm</FILE><LINE>109</LINE></SWITCH2>
+  <RIGHT><FILE>C:\Users\malec\Documents\Facultad\Cursando\Labo de Micros\Scripts\TPs\TP2\TP2\main.asm</FILE><LINE>46</LINE></RIGHT>
+  <DELAY250m><FILE>C:\Users\malec\Documents\Facultad\Cursando\Labo de Micros\Scripts\TPs\TP2\TP2\main.asm</FILE><LINE>63</LINE></DELAY250m>
+  <LEFT><FILE>C:\Users\malec\Documents\Facultad\Cursando\Labo de Micros\Scripts\TPs\TP2\TP2\main.asm</FILE><LINE>54</LINE></LEFT>
+  <LOOP0><FILE>C:\Users\malec\Documents\Facultad\Cursando\Labo de Micros\Scripts\TPs\TP2\TP2\main.asm</FILE><LINE>65</LINE></LOOP0>
+  <LOOP1><FILE>C:\Users\malec\Documents\Facultad\Cursando\Labo de Micros\Scripts\TPs\TP2\TP2\main.asm</FILE><LINE>67</LINE></LOOP1>
+  <LOOP2><FILE>C:\Users\malec\Documents\Facultad\Cursando\Labo de Micros\Scripts\TPs\TP2\TP2\main.asm</FILE><LINE>69</LINE></LOOP2>
+  <DELAY500m><FILE>C:\Users\malec\Documents\Facultad\Cursando\Labo de Micros\Scripts\TPs\TP2\TP2\main.asm</FILE><LINE>78</LINE></DELAY500m>
+  <L1><FILE>C:\Users\malec\Documents\Facultad\Cursando\Labo de Micros\Scripts\TPs\TP2\TP2\main.asm</FILE><LINE>82</LINE></L1>
+  <BLINK><FILE>C:\Users\malec\Documents\Facultad\Cursando\Labo de Micros\Scripts\TPs\TP2\TP2\main.asm</FILE><LINE>97</LINE></BLINK>
+  <INCREMENT><FILE>C:\Users\malec\Documents\Facultad\Cursando\Labo de Micros\Scripts\TPs\TP2\TP2\main.asm</FILE><LINE>114</LINE></INCREMENT>
+ </LABELS>
+</ASSEMBLER_INFO>
